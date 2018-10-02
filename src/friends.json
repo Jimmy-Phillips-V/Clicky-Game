@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Bojack Horseman",
+      "image": "https://i.redd.it/nhre2ney3z211.jpg",
+      "occupation": "Actor",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 2,
+      "name": "Diane Nguyen",
+      "image": "https://i.pinimg.com/originals/46/f9/36/46f9366f2553f045a64c74cf498d9548.png",
+      "occupation": "Journalist",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 3,
+      "name": "Mr. Peanutbutter",
+      "image": "https://medias.spotern.com/spots/w640/160647-1535353167.jpg",
+      "occupation": "Actor",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 4,
+      "name": "Princess Carolyn",
+      "image": "https://pbs.twimg.com/profile_images/913669655662751745/FIyyJ_61_400x400.jpg",
+      "occupation": "Agent",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 5,
+      "name": "Tood Chavez",
+      "image": "https://2.bp.blogspot.com/-11gvjUTd4Ao/WTn9UG1JXpI/AAAAAAAAHGE/ePwZvWz989MVhK5BCo80Sj16MU6DAGvBgCLcB/s1600/BoJack%2BHorseman%2B-%2BTodd.jpg",
+      "occupation": "President of Ad Sales",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 6,
+      "name": "Lenny Turteltaub",
+      "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/9/95/Lenny.png/revision/latest/scale-to-width-down/310?cb=20150721195813",
+      "occupation": "Producer",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 7,
+      "name": "Vincent Adultman",
+      "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/f/f1/Vincent.png/revision/latest/scale-to-width-down/242?cb=20150719055028",
+      "occupation": "Business",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 8,
+      "name": "Sarah Lynn",
+      "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/4/42/Sarah_Lynn_profile.jpeg/revision/latest/scale-to-width-down/310?cb=20170724041842",
+      "occupation": "Actress/Singer",
+      "location": "Hollywoo"
+    },
+    {
+      "id": 9,
+      "name": "Sextina Aquafina",
+      "image": "https://vignette.wikia.nocookie.net/bojackhorseman/images/e/e7/Sextina_aquafina_by_brandonultimate-d7xfq2k.jpg/revision/latest/scale-to-width-down/310?cb=20151002102725",
+      "occupation": "Singer",
+      "location": "Hollywoo"
+    }
+]
